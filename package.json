@@ -16,8 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/belexos/hummersmyth.git"
+    "url": "https://github.com/tbillenstein/hummersmyth.git"
   },
+  "bugs": {
+    "url": "https://github.com/tbillenstein/hummersmyth/issues"
+  },
+  "homepage": "https://github.com/tbillenstein/hummersmyth#readme",
   "keywords": [
     "html",
     "tags",
@@ -32,9 +36,8 @@
     "template",
     "engine"
   ],
-  "author": "Br00ze <br00ze@belexos.com> (http://belexos.com)",
+  "author": "tbillenstein <tb@thomasbillenstein.com> (https://thomasbillenstein.com)",
   "license": "MIT",
-  "homepage": "https://github.com/belexos/hummersmyth#readme",
   "nyc": {
     "exclude": [
       "**/*Spec.js"
