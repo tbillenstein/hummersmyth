@@ -1,9 +1,9 @@
 /**
  * Hummersmyth - HTML renderer and DOM creator for Node.js and the browser.
  *
- * @copyright: Copyright (c) 2013-present, Belexos
+ * @copyright: Copyright (c) 2013-present, tbillenstein
  *
- * @author: Br00ze <br00ze@belexos.com>
+ * @author: tbillenstein <tb@thomasbillenstein.com> (https://thomasbillenstein.com)
  *
  * @license This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.

@@ -26,8 +26,8 @@ const Hummersmyth = require('hummersmyth');
 `Hummersmyth` has no dependencies, which makes it easy to include in a browser.
 
 You can download the latest release from the repository
-* [`hummersmyth.js`](https://github.com/belexos/hummersmyth/blob/master/hummersmyth.js) unminified, including comments
-* [`hummersmyth.min.js`](https://github.com/belexos/hummersmyth/blob/master/hummersmyth.min.js) minified version
+* [`hummersmyth.js`](https://github.com/tbillenstein/hummersmyth/blob/master/hummersmyth.js) unminified, including comments
+* [`hummersmyth.min.js`](https://github.com/tbillenstein/hummersmyth/blob/master/hummersmyth.min.js) minified version
 
 Use a script tag to directly add `Hummersmyth` to the global scope.
 
@@ -195,7 +195,7 @@ var page =
 
 More examples
 -------------
-Please refer to the [test spec](https://github.com/belexos/hummersmyth/blob/master/spec/HummersmythSpec.js) for more 
+Please refer to the [test spec](https://github.com/tbillenstein/hummersmyth/blob/master/spec/HummersmythSpec.js) for more 
 examples.
 
 
@@ -260,7 +260,7 @@ Build
 
 Contribution
 ------------
-Please use [Github issues](https://github.com/belexos/hummersmyth/issues) for requests.
+Please use [Github issues](https://github.com/tbillenstein/hummersmyth/issues) for requests.
 
 Pull requests are welcome.
 
@@ -279,8 +279,8 @@ in the issue which will reproduce the bug.
 
 Support
 -------
-* Send us an email: [support@belexos.com](mailto:support@belexos.com)
-* Follow us on Twitter: [@belexos](http://twitter.com/belexos)
+* Send us an email: [tb@thomasbillenstein.com](mailto:tb@thomasbillenstein.com)
+* Follow us on Twitter: [@tbillenstein](https://x.com/tbillenstein/)
 
 
 Changelog
@@ -309,5 +309,5 @@ v1.0.0
 
 License
 -------
-Copyright (c) 2013-present, Belexos. `Hummersmyth` is licensed under the 
-[MIT License](https://github.com/belexos/hummersmyth/blob/master/LICENSE).
+Copyright (c) 2013-present, tbillenstein. `Hummersmyth` is licensed under the 
+[MIT License](https://github.com/tbillenstein/hummersmyth/blob/master/LICENSE).
